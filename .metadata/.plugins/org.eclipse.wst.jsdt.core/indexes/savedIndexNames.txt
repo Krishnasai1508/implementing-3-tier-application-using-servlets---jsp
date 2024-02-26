@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Krishna Sai\PROGRAMING\QSpiders\Servlets\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2899735787.index
+1663469963.index
+1229995421.index
+1793180749.index
+4122100934.index
+4253242634.index
+2628376171.index

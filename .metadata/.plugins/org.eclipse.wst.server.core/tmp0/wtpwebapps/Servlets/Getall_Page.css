@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+table {
+	margin: 250px 350px;
+	background-color: silver;
+	color: black;
+}
+
+table tr th .submit {
+	margin: 5px 0px;
+}

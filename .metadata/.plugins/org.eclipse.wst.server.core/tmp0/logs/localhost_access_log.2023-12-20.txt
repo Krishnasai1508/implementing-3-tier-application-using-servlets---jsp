@@ -1,0 +1,9 @@
+127.0.0.1 - - [20/Dec/2023:22:29:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:29:08 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1114
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:29:08 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:30:24 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1114
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:30:26 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1114
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:30:26 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1114
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:30:41 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1087
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:31:09 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1119
+0:0:0:0:0:0:0:1 - - [20/Dec/2023:22:32:53 +0530] "GET /Servlets/Sigin_Page.jsp HTTP/1.1" 200 1121

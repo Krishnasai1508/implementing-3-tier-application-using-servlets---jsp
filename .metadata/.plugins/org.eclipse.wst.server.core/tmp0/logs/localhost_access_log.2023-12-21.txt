@@ -1,0 +1,8 @@
+127.0.0.1 - - [21/Dec/2023:17:54:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:17:54:38 +0530] "GET /EmployeeManagementSystem/signin.jsp HTTP/1.1" 404 769
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:17:54:39 +0530] "GET /EmployeeManagementSystem/signin.jsp HTTP/1.1" 404 769
+127.0.0.1 - - [21/Dec/2023:17:55:06 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/Dec/2023:18:20:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:18:20:47 +0530] "GET /Servlets/Signin_Page.jsp HTTP/1.1" 200 1194
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:18:20:47 +0530] "GET /Servlets/Signin_Page.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:18:21:17 +0530] "POST /Servlets/signin HTTP/1.1" 200 1242
